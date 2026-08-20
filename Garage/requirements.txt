@@ -1,0 +1,8 @@
+PyQt6>=6.6.0
+SQLAlchemy>=2.0.22
+reportlab>=4.0.5
+pywhatkit>=5.4
+pyautogui>=0.9.54
+pdf2image>=1.17.0
+bcrypt>=4.1.2
+

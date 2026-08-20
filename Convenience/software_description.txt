@@ -1,0 +1,116 @@
+Software Description: Modern Billing System
+
+Overview:
+The Modern Billing System is a comprehensive desktop application designed for small to medium-sized businesses, particularly service centers, auto shops, and retail stores. It provides a complete solution for managing sales, purchases, inventory, expenditures, and customer service reminders. Built using Python and PyQt6, the system offers a user-friendly graphical interface with multiple tabs for different functionalities.
+
+Key Features:
+
+1. User Authentication:
+   - Secure login system with username and password
+   - Password hashing using bcrypt for security
+   - User management through database
+
+2. Sales Management (Sell Tab):
+   - Create and manage sales bills
+   - Add multiple items to a single bill
+   - Calculate totals, discounts, and taxes
+   - Generate printable bills
+   - Edit existing bills
+   - Delete items from bills
+
+3. Purchase Management (Purchase Tab):
+   - Record purchase transactions
+   - Track purchase history
+   - Manage supplier information
+
+4. Expenditure Tracking (Expenditure Tab):
+   - Log various business expenses
+   - Categorize expenditures
+   - View expense history
+   - Delete expense entries
+
+5. Bill Search and Management (Find Bill Tab):
+   - Search bills by various criteria
+   - View bill details
+   - Edit existing bills
+   - Delete bills
+
+6. Inventory Management (Inventory Tab):
+   - Track stock levels
+   - Add new inventory items
+   - Update item quantities
+   - Delete inventory items
+
+7. Tracked Items (Tracked Items Tab):
+   - Monitor specific items of interest
+   - Add items to tracking list
+   - Clear tracking list
+   - Delete tracked items
+
+8. Portfolio Analysis (Portfolio Tab):
+   - Financial overview and analysis
+   - Calculate profits and losses
+   - View business performance metrics
+
+9. Dashboard (Dashboard Tab):
+   - Overview of business operations
+   - Quick access to key information
+   - Summary statistics
+
+10. Business Details (Settings Tab):
+    - Configure business information
+    - Update company details
+    - System settings
+
+11. Service Reminders:
+    - Automated service due date tracking
+    - Customer notification system
+    - WhatsApp integration for sending reminders
+    - Mark reminders as notified
+    - Visual indicator for pending reminders
+
+12. PDF Generation:
+    - Generate PDF bills and reports
+    - Customizable bill formats
+    - Print functionality
+
+13. Logging and Error Handling:
+    - Comprehensive logging system
+    - Error tracking and reporting
+    - Debug information storage
+
+Technical Specifications:
+
+- Programming Language: Python 3.11+
+- GUI Framework: PyQt6
+- Database: SQLite with SQLAlchemy ORM
+- PDF Generation: ReportLab
+- WhatsApp Integration: PyWhatKit
+- Automation: PyAutoGUI
+- PDF Processing: pdf2image with Poppler
+- Security: bcrypt for password hashing
+
+System Requirements:
+- Windows operating system
+- Python 3.11 or higher
+- Chrome browser (for WhatsApp integration)
+- Sufficient disk space for database and logs
+
+Installation:
+1. Install Python 3.11+
+2. Create a virtual environment
+3. Install dependencies from requirements.txt
+4. Run main.py to start the application
+
+Database Structure:
+- Users table for authentication
+- Bills table for sales transactions
+- Purchases table for purchase records
+- Expenditures table for expense tracking
+- Inventory table for stock management
+- ServiceReminders table for customer service tracking
+- BusinessDetails table for company information
+
+The system is designed to be intuitive and efficient, allowing business owners to manage their operations seamlessly. It includes keyboard shortcuts (F5 for refresh, Delete for deletion, Enter for actions) for quick navigation and operation.
+
+This billing system aims to streamline business processes, reduce manual errors, and provide valuable insights into business performance through its comprehensive feature set.

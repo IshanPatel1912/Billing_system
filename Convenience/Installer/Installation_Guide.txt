@@ -1,0 +1,59 @@
+BillingSystem Installation Guide
+================================
+
+Thank you for choosing BillingSystem! This guide will help you install and set up the application properly.
+
+System Requirements:
+- Windows 10 or later
+- Administrator privileges for installation
+- At least 500 MB free disk space
+- Poppler for PDF processing (see below)
+
+Installation Steps:
+1. Download the BillingSystem_Installer.exe file.
+2. Right-click the installer and select "Run as administrator".
+3. Follow the installation wizard prompts.
+4. Choose the installation directory (default: C:\Program Files\BillingSystem).
+5. Complete the installation.
+
+Post-Installation Setup:
+1. Ensure Google Chrome is installed:
+   - Download and install Chrome from: https://www.google.com/chrome/
+   - Open Chrome and log into WhatsApp Web at: https://web.whatsapp.com/
+   - Keep the browser window open or ensure it's the default browser.
+
+2. Antivirus Configuration:
+   - The application may trigger antivirus warnings due to packaging.
+   - Add the BillingSystem folder to your antivirus exclusions.
+   - If issues persist, temporarily disable real-time protection during first run.
+
+3. First Run:
+   - The application may trigger antivirus warnings due to packaging.
+   - Add the BillingSystem folder to your antivirus exclusions.
+   - If issues persist, temporarily disable real-time protection during first run.
+
+4. First Run:
+   - Launch BillingSystem from the desktop shortcut or Start menu.
+   - Configure business details in the settings.
+   - The database will be created automatically in AppData.
+
+Features:
+- Bill creation and management
+- Inventory tracking
+- WhatsApp integration for bill sharing
+- PDF generation
+- Customer and service reminders
+
+Troubleshooting:
+- If the app doesn't start, check that all dependencies are installed.
+- For WhatsApp sending: Ensure Google Chrome is installed, WhatsApp Web is logged in, and the device has a GUI (not headless server).
+- If WhatsApp sending fails, check the country code in business details matches the customer's phone number.
+- Database issues: Check logs in %APPDATA%\BillingSystem\
+
+Support:
+For support, contact the developer.
+
+Building the Installer (For Developers):
+- Install Inno Setup from: https://jrsoftware.org/isinfo.php
+- Run: iscc BillingSystem_Installer.iss
+- This creates BillingSystem_Installer.exe in the Installer folder.

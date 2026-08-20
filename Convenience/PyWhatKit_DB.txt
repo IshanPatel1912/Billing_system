@@ -1,0 +1,72 @@
+Date: 3/1/2026
+Time: 14:57
+Phone Number: +919662131322
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260103-0001.png
+Caption: Invoice: INV-20260103-0001Customer Name: DaxCar: Swift (32000 KM)Car Number: GJ09AG7129Total: ₹10000.00Thank you for your business!
+--------------------
+Date: 3/1/2026
+Time: 15:52
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260103-0001.png
+Caption: Invoice: INV-20260103-0001Customer Name: IshanCar: Venue (32000 KM)Car Number: GJ18BL4507Total: ₹2000.00Thank you for your business!
+--------------------
+Date: 3/1/2026
+Time: 15:53
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260103-0002.png
+Caption: Invoice: INV-20260103-0002Customer Name: IshanCar: Venue (60000 KM)Car Number: GJ18BL4507Total: ₹4700.00Thank you for your business!
+--------------------
+Date: 4/1/2026
+Time: 15:22
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260104-0005.png
+Caption: Invoice: INV-20260104-0005Customer Name: IshanCar: ( KM)Car Number: Total: ₹5000.00Thank you for your business!
+--------------------
+Date: 5/1/2026
+Time: 15:8
+Phone Number: +919324011999
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260105-0001.png
+Caption: Invoice: INV-20260105-0001Customer Name: VanshCar: bb (6225 KM)Car Number: GJ18Total: ₹980.00Thank you for your business!
+--------------------
+Date: 17/1/2026
+Time: 18:38
+Phone Number: +919662131322
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260117-0004.png
+Caption: Invoice: INV-20260117-0004Customer Name: DaxCar: ugu (551 KM)Car Number: GjTotal: ₹3000.00Thank you for your business!
+--------------------
+Date: 19/1/2026
+Time: 19:50
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0003.png
+Caption: Invoice: INV-20260119-0003Customer: IshanTotal: 500.00Thank you!
+--------------------
+Date: 19/1/2026
+Time: 19:53
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0004.png
+Caption: Invoice: INV-20260119-0004Customer: IshanTotal: 500.00Thank you!
+--------------------
+Date: 19/1/2026
+Time: 20:6
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0005.png
+Caption: Invoice: INV-20260119-0005Customer: IshanTotal: 2280.00Thank you!
+--------------------
+Date: 19/1/2026
+Time: 20:8
+Phone Number: +916351803513
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0001.png
+Caption: Invoice: INV-20260119-0001Customer: IshanTotal: 500.00Thank you!
+--------------------
+Date: 19/1/2026
+Time: 21:53
+Phone Number: +919712142900
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0007.png
+Caption: Invoice: INV-20260119-0007Customer: DaxTotal: 500.00Thank you!
+--------------------
+Date: 19/1/2026
+Time: 21:59
+Phone Number: +919662131322
+Image: C:\Users\patel\AppData\Local\Temp\Bill_INV-20260119-0009.png
+Caption: Invoice: INV-20260119-0009Customer: DaxTotal: 3400.00Thank you!
+--------------------
