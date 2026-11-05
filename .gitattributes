@@ -1,3 +1,27 @@
-# Auto detect text files and perform LF normalization
+# Normalize line endings for text files
 * text=auto
+
+# Large installers are stored with Git LFS (kept from the original file)
 *.exe filter=lfs diff=lfs merge=lfs -text
+
+# --- Language stats: bundled Poppler, PyInstaller output and caches are not project code ---
+**/poppler/** linguist-vendored
+**/build/** linguist-generated
+**/dist/** linguist-generated
+**/__pycache__/** linguist-generated
+*.spec linguist-language=Python
+
+# --- Binary files ---
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.ttf binary
+*.TTF binary
+*.dll binary
+*.pyz binary
+*.pkg binary
+*.lib binary
+*.pyc binary
